@@ -3,4 +3,7 @@ name = "rust-p"
 version = "0.1.0"
 edition = "2024"
 
+[lib]
+name = "myapp"
+
 [dependencies]
